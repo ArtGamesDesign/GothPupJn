@@ -34,14 +34,14 @@ const updateAccountRequest = (payload) => {
 export const connect = () => {
   return async (dispatch) => {
     dispatch(connectRequest());
-    const abiResponse = await fetch("hashlips_nft_minting_dapp-1.0.1/config/abi.json", {
+    const abiResponse = await fetch("goth_pup_jnr/config/abi.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
       },
     });
     const abi = await abiResponse.json();
-    const configResponse = await fetch("hashlips_nft_minting_dapp-1.0.1/config/config.json", {
+    const configResponse = await fetch("goth_pup_jnr/config/config.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
