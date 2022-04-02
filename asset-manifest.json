@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GothPupJnr/static/css/main.66705079.chunk.css",
+    "main.js": "/GothPupJnr/static/js/main.55dc9564.chunk.js",
+    "main.js.map": "/GothPupJnr/static/js/main.55dc9564.chunk.js.map",
+    "runtime-main.js": "/GothPupJnr/static/js/runtime-main.830bdce2.js",
+    "runtime-main.js.map": "/GothPupJnr/static/js/runtime-main.830bdce2.js.map",
+    "static/js/2.359fce72.chunk.js": "/GothPupJnr/static/js/2.359fce72.chunk.js",
+    "static/js/2.359fce72.chunk.js.map": "/GothPupJnr/static/js/2.359fce72.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/GothPupJnr/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/GothPupJnr/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/GothPupJnr/index.html",
+    "static/css/main.66705079.chunk.css.map": "/GothPupJnr/static/css/main.66705079.chunk.css.map",
+    "static/js/2.359fce72.chunk.js.LICENSE.txt": "/GothPupJnr/static/js/2.359fce72.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/GothPupJnr/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830bdce2.js",
+    "static/js/2.359fce72.chunk.js",
+    "static/css/main.66705079.chunk.css",
+    "static/js/main.55dc9564.chunk.js"
+  ]
+}

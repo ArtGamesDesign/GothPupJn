@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x991679B605b0751D187B18971a048B97DaB3cf39",
+  "SCAN_LINK": "https://polygonscan.com/address/0x991679B605b0751D187B18971a048B97DaB3cf39",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Goth Pup Jnr",
+  "SYMBOL": "GPJ",
+  "MAX_SUPPLY": 110,
+  "WEI_COST": 55000000000000000000,
+  "DISPLAY_COST": 55,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gothpupjnr",
+  "SHOW_BACKGROUND": true
+}
